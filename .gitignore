@@ -1,0 +1,6 @@
+# For Node.js projects
+node_modules/
+.env
+.DS_Store
+
+# Add other files/folders you want to ignore
